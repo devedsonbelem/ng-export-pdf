@@ -1,0 +1,30 @@
+.btn-success{
+    background-color: #3B8C2F !important;
+    color: #fff;
+}
+.btn-success:hover{
+    background-color: #55a049 !important;
+    color: #fff;
+}
+.bg-success{
+    background-color: #3B8C2F !important;
+}
+.row{
+    padding: 10px;
+}
+
+.card{
+    margin: 10px;
+}
+
+.material-icons{
+    font-size: 30px;
+}
+
+button span{
+    font-size: 22px;
+}
+
+.action-buttons button{
+    margin : 5px;
+}
